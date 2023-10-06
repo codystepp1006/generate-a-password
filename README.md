@@ -8,6 +8,10 @@ Generating a Password!
     special characters and numbers. once you confirm all of the questions, it will then create a random password 
     for you! The best part is you are able to make as many s you'd like. 
 
+
+![Alt text](<Screenshot 2023-10-05 213621.png>)
+
+
 Getting Started
 
         To get this project started, there was a repository that I pulled from that gave me the HTML, CSS, and 
@@ -34,6 +38,10 @@ Acceptance Criteria
     THEN a password is generated that matches the selected criteria
     WHEN the password is generated
     THEN the password is either displayed in an alert or written to the page
+
+Deployed Application Website Link:
+
+    https://codystepp1006.github.io/generate-a-password/
 
 Acknowledgments
     * cloud recording from coding bootcamp
